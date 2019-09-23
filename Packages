@@ -184,6 +184,26 @@ Dev: flipswitch
 Icon: file:///Applications/Preferences.app/icon-table.png
 Name: Flipswitch
 
+Package: com.bingner.plutil
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Samuel Bingner
+Installed-Size: 256
+Depends: firmware (>=2.0)
+Conflicts: com.ericasadun.utilities
+Filename: ./debs/com.bingner.plutil_0.1.0_iphoneos-arm.deb
+Size: 48408
+MD5sum: b913ee9e10461f94b28f4a96b7436880
+SHA1: bf281df09de1eda888482c6074d833c8448608e8
+SHA256: 6f51270a8ccc6f6f0a1d25ebe7d144c900343e69ecf7e38d9bf140127547b5dc
+Section: Acreson-依赖(Depends)
+Multi-Arch: foreign
+Description: plutil as from erica sadun
+Tag: role::hacker
+Author: Samuel Bingner
+Icon: file:///Applications/Cydia.app/Sections/Addons.png
+Name: plutil
+
 Package: com.chpwn.iconsupport
 Version: 1.11.1
 Architecture: iphoneos-arm
