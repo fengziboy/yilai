@@ -1253,6 +1253,27 @@ Description: Simple library that displays bulletins
 Author: Elias Limneos
 Name: libbulletin
 
+Package: net.limneos.libbulletin
+Version: 0.1-148
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 332
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/net.limneos.libbulletin_0.1-148_iphoneos-arm.deb
+Size: 31272
+MD5sum: e3c9a3ebd08579cdb28d73dafa18d45b
+SHA1: 9c67657dba7886bd337d703db57fbdc17b29c07d
+SHA256: 0ace339a8e418e7e959f602041d0796cc178fa8792e448f6fbfa5d8677862c0c
+Section: Development
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libbulletinDp
+Description: Simple library that displays bulletins
+Tag: cydia::obsolete, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libbulletinDp
+Dev: limneos
+Name: libbulletin
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: org.swift.libswift
 Version: 5.0
 Architecture: iphoneos-arm
@@ -1353,6 +1374,24 @@ Author: Maxwell Dausch <max.dausch@gmail.com>
 Depiction: http://rejail.ru/depiction.php?file=utils
 Name: MDausch Utils
 Sileodepiction: http://rejail.ru/sileo/depiction.php?file=utils
+
+Package: sedfix
+Version: 4.8
+Architecture: iphoneos-arm
+Maintainer: Pulandres
+Depends: mobilesubstrate
+Filename: ./debs/sedfix_4.8_iphoneos-arm.deb
+Size: 95546
+MD5sum: d026ea38aff22d395229ba98b7da38bf
+SHA1: 67c20b6084baac9f4baf3803162083f847a277be
+SHA256: fd4aa3a0252ea1a1676a22f8136a906ef84b6eb5006fcc816037a0356d5da4ab
+Section: Utilities
+Description: Package to fix Some Cracked Tweaks
+Author: SamBignner
+Depiction: https://repo.pulandres.me/index.php?pid=415
+Icon: https://repo.pulandres.me/CydiaIcon.png
+Name: sed Fix
+Sileodepiction: https://repo.pulandres.me/sileo.php?pid=415
 
 Package: uasharedtools
 Version: 2.2r-71
