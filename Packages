@@ -760,6 +760,25 @@ Moderndepiction: https://yttxcs.cn/depiction/sileo/com.synnyg.backupaz3pojie.jso
 Name: BackupAZ 3 「破解补丁」
 Sileodepiction: https://yttxcs.cn/depiction/sileo/com.synnyg.backupaz3pojie.json
 
+Package: com.thuthuatjb.vcallers
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: TTJB Team <admin@thuthuatjb.com>
+Installed-Size: 388
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.muirey03.libimagepicker
+Filename: ./debs/com.thuthuatjb.vcallers_2.1_iphoneos-arm.deb
+Size: 48768
+MD5sum: 56255f83bed36e448a1afb65f10c9ca1
+SHA1: b5538aedc0ab4860c5a82c53ee9094810023198c
+SHA256: 5574d653cf568698df880d49b3b70624b554862df66c2f576e5302a1550bdb57
+Section: Tweaks
+Description: Đặt Video làm nền cuộc gọi đến hoặc đi
+Author: TTJB Team <admin@thuthuatjb.com>
+Depiction: https://repo.thuthuatjb.com/index.php?pid=434
+Icon: file:///Library/IconRepo/tinhchinh.png
+Name: VCaller Screen
+Sileodepiction: https://repo.thuthuatjb.com/sileo/com.thuthuatjb.vcallers.json
+
 Package: com.unlimapps.uasharedtools
 Version: 2.2r-76
 Architecture: iphoneos-arm
