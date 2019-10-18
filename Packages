@@ -509,6 +509,22 @@ Dev: kabiroberai
 Name: libswift4
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.muirey03.libimagepicker
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Muirey03
+Installed-Size: 324
+Filename: ./debs/com.muirey03.libimagepicker_1.0.4_iphoneos-arm.deb
+Size: 16246
+MD5sum: b04c239c83a304cec839a17536f84cdc
+SHA1: de32a1532e65a39d35ae8893285f4d72506b586b
+SHA256: 7785b6a9dbbc1c64a0d5799262b5df890bd5e074549b6a40e5a98098d7d4dec6
+Section: System
+Description: A simple library for choosing images in preference bundles.
+Tag: role::developer
+Author: Muirey03
+Name: libimagepicker
+
 Package: com.muris.libgraphite
 Version: 2.2.2
 Architecture: iphoneos-arm
