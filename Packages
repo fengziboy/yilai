@@ -1447,6 +1447,23 @@ Icon: https://repo.pulandres.me/CydiaIcon.png
 Name: sed Fix
 Sileodepiction: https://repo.pulandres.me/sileo.php?pid=415
 
+Package: sedfix
+Version: 6.0
+Architecture: iphoneos-arm
+Maintainer: Pulandres
+Filename: ./debs/sedfix_6.0_iphoneos-arm.deb
+Size: 105900
+MD5sum: 8724e1d23f55d193c64ee9ac349a779c
+SHA1: d7fddd93111b3de79efb0bccd35a43587ed79c75
+SHA256: cdd5dfe5815912de975b836a96f818b8ac4aa245ae0fa452fa07cd9991df34a1
+Section: Utilities
+Description: Package to get working Cracked Tweaks, IMPORTANT to future cracks, install please.
+Author: Pulandres
+Depiction: https://repo.pulandres.me/index.php?pid=708
+Icon: https://repo.pulandres.me/CydiaIcon.png
+Name: CracksCompatibility
+Sileodepiction: https://repo.pulandres.me/sileo.php?pid=708
+
 Package: uasharedtools
 Version: 2.2r-71
 Architecture: iphoneos-arm
