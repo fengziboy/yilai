@@ -612,6 +612,28 @@ Dev: opa334
 Name: CCSupport
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.ouraigua.jodebox
+Version: 3.0.7
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 735
+Depends: firmware (>= 6.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Filename: ./debs/com.ouraigua.jodebox_3.0.7_iphoneos-arm.deb
+Size: 175170
+MD5sum: e8fbe3c55fb187b4a6ab490f1301c188
+SHA1: 5129202c5f9cf791afd8c7d0600cc2478a298557
+SHA256: ac34834c517e484bf68e70e4adf77a717a1b1678ddf7bc3097164816c65b30bb
+Section: Development
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=jodeboxDp
+Description: iOS7 filesystem access from sandboxed applications.
+Tag: purpose::extension, role::developer, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Author: Jalal Ouraigua <ouraigua@me.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=jodeboxDp
+Dev: ouraigua
+Icon: file:///Library/PreferenceBundles/ChromeDownloaderPrefs.bundle/icon@2x.png
+Name: JODebox
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.pulandres.adblockplus
 Version: 1.1
 Architecture: iphoneos-arm
